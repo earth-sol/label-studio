@@ -148,7 +148,7 @@ label-studio = "label_studio.server:main"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4"
-wheel = "<=0.40.0,>=0.38.1"
+wheel = ">=0.38.1,<=0.46.2"
 appdirs = ">=1.4.3"
 attr = "0.3.1"
 attrs = ">=19.2.0"
